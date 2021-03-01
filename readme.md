@@ -1,6 +1,5 @@
-### **Suits.js**
+# **Suits.js**
 
-# A CLI to automatize a few tasks when making a new 
-# project (i.e.: React + NectsJS boilerplate)
+### A CLI to automatize a few tasks when making a new project (i.e.: React + NectsJS boilerplate)
 
 ---
